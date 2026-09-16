@@ -8,11 +8,6 @@ The project aims to identify households experiencing increases in
 electricity bills while exploring household characteristics, appliance
 usage, and behavioral factors associated with the classification target.
 
-> This repository focuses on the author's personal contribution to a
-> 3-member research project conducted at BINUS University.
-
----
-
 ## Project Overview
 
 Household electricity billing behavior can be influenced by various
